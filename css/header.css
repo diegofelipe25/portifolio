@@ -1,5 +1,5 @@
 header {
-    background-color: rgb(16, 0, 160);
+    background-color: rgb(150, 150, 150);
     padding: 25px;
     display: flex;
     align-items: center;
@@ -19,12 +19,12 @@ header nav {
 
 header nav a {
     margin-right: 1.3em;
-    font-size: 1.5em;
+    font-size: 2.5em;
 }
 
 header h1,
 a {
-    color: aqua;
+    color: rgb(54, 54, 54);
     transition: 0.2s ease-in-out;
 }
 
