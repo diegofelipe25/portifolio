@@ -21,3 +21,14 @@ header nav a {
     margin-right: 1.3em;
     font-size: 1.5em;
 }
+
+header h1,
+a {
+    color: aqua;
+    transition: 0.2s ease-in-out;
+}
+
+header a:hover,
+h1:hover {
+    color: aliceblue;
+}
