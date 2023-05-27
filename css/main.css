@@ -19,6 +19,8 @@ main .main-content h2 {
 
 main .main-content .text {
     margin-bottom: 10%;
+    line-height: 20px;
+
 }
 
 main .main-content .text p {
